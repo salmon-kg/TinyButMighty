@@ -22,3 +22,9 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
 -	Evaluation Framework:
   1.	Removing Similar Triples from Tools’ Output
   2.	Calculating Each triple’s similarity score with GT Triples and keeping the highest similarity
+  THRESHOLDS
+
+# Thresholds
+  Amnesty (A)	Correct (1)	0.81 – 1.00
+	Partially Correct	0.5 – 0.8
+  Penalty (P)	Incorrect (0)	< 0.5
