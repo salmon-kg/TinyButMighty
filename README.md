@@ -3,7 +3,7 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
 # Dataset Statistics
 
 
-# EVALUATION
+# Evaluation
 -	Implemented Tools/Libraries:
   1.	SpaCy (SVO) Extraction Model
   2.	Stanford OpenIE Triple Extractor
