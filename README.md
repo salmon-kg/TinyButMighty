@@ -28,3 +28,6 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
   Amnesty (A)	Correct (1)	0.81 – 1.00
 	Partially Correct	0.5 – 0.8
   Penalty (P)	Incorrect (0)	< 0.5
+
+# Performance
+https://github.com/CECC-ANU/Text2Triple/blob/main/ER.png
