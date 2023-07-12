@@ -14,14 +14,19 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
 * Python 3.8
 * Stanford OpenIE
 * SpaCy
-* 
-# Dataset Statistics
+  
+### Dataset Statistics
+<h2 align="center">
+  Statistics of the Annotated Dataset in Each Phase
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/stats.png" alt="...">
+</h2>
+
 <h2 align="center">
   Verification Phase: Relative Distribution of Triple Correctness
   <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/distribution.png" alt="...">
 </h2>
 
-# Evaluation
+### Evaluation
 -	Implemented Tools/Libraries:
   1.	SpaCy (SVO) Extraction Model
   2.	Stanford OpenIE Triple Extractor
@@ -42,16 +47,19 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
   2.	Calculating Each triple’s similarity score with GT Triples and keeping the highest similarity
   THRESHOLDS
 
-# Thresholds
-  Amnesty (A)	Correct (1)	0.81 – 1.00  
-	Partially Correct	0.5 – 0.8  
-  Penalty (P)	Incorrect (0)	0 - 0.49  
+### Thresholds
 
-# Performance
+<h2 align="center">
+  Applied Threshold on Triple Similarity Measure
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/thresh.png" alt="...">
+</h2>
+
+### Performance
 <h2 align="center">
   The Performance of System With Amnesty and Penalty Thresholds:
   <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/ER.png" alt="...">
 </h2>
+
 <h2 align="center">
   Graphical Representation of Performance:
   <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/performance.png" alt="...">
@@ -61,3 +69,9 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
   Average and Normalized Performance:
   <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/AVG-Norm-Models.png" alt="...">
 </h2>
+
+### How to test
+- Code folder contains the relevant code files.
+
+#### When using this dataset, please cite:
+- Citation will be update
