@@ -26,7 +26,7 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
   <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/distribution.png" alt="...">
 </h2>
 
-### Evaluation
+# Evaluation
 -	Implemented Tools/Libraries:
   1.	SpaCy (SVO) Extraction Model
   2.	Stanford OpenIE Triple Extractor
