@@ -31,3 +31,7 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
 
 # Performance
 https://github.com/CECC-ANU/Text2Triple/blob/main/ER.png
+<h2 align="center">
+  The Performance of System:
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/ER.png" alt="...">
+</h2>
