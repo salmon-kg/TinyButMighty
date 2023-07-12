@@ -1,9 +1,24 @@
-# Tiny But Mighty: A Benchmark Dataset for Triple Extraction From Unstructured Text
+<h1 align="center">
+  Tiny But Mighty
+</h1>
+<h4 align="center">A Benchmark Dataset for Triple Extraction From Unstructured Text</h4>
+
 This work introduces a novel dataset specifically designed to evaluate KG construction techniques from unstructured text. Our dataset consists of a diverse collection of compound and complex sentences meticulously annotated by human annotators with potential triples (subject, verb, object). The annotations underwent further scrutiny by expert ontologists to ensure accuracy and consistency. For evaluation purposes, the proposed F-measure criterion offers a robust approach to quantify the relatedness and assess the alignment between extracted triples and the ground-truth triples, providing a valuable tool for evaluating the performance of triple extraction systems.
+
+<h2 align="center">
+  Flow of Annotation Process:
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/flow.png" alt="...">
+</h2>
+
+### Requirements
+* Python 3.8
+* Stanford OpenIE
+* SpaCy
+* 
 # Dataset Statistics
 <h2 align="center">
   Verification Phase: Relative Distribution of Triple Correctness
-  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/distribution.png" alt="...">
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/distribution.png" alt="...">
 </h2>
 
 # Evaluation
@@ -35,9 +50,14 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
 # Performance
 <h2 align="center">
   The Performance of System With Amnesty and Penalty Thresholds:
-  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/ER.png" alt="...">
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/ER.png" alt="...">
 </h2>
 <h2 align="center">
   Graphical Representation of Performance:
-  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/performance.png" alt="...">
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/performance.png" alt="...">
+</h2>
+
+<h2 align="center">
+  Average and Normalized Performance:
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/img/AVG-Norm-Models.png" alt="...">
 </h2>
