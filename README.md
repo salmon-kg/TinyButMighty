@@ -1,7 +1,10 @@
 # Tiny But Mighty: A Benchmark Dataset for Triple Extraction From Unstructured Text
 This work introduces a novel dataset specifically designed to evaluate KG construction techniques from unstructured text. Our dataset consists of a diverse collection of compound and complex sentences meticulously annotated by human annotators with potential triples (subject, verb, object). The annotations underwent further scrutiny by expert ontologists to ensure accuracy and consistency. For evaluation purposes, the proposed F-measure criterion offers a robust approach to quantify the relatedness and assess the alignment between extracted triples and the ground-truth triples, providing a valuable tool for evaluating the performance of triple extraction systems.
 # Dataset Statistics
-
+<h2 align="center">
+  Verification Phase: Relative Distribution of Triple Correctness
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/distribution.png" alt="...">
+</h2>
 
 # Evaluation
 -	Implemented Tools/Libraries:
@@ -30,8 +33,11 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
   Penalty (P)	Incorrect (0)	0 - 0.49  
 
 # Performance
-https://github.com/CECC-ANU/Text2Triple/blob/main/ER.png
 <h2 align="center">
-  The Performance of System:
+  The Performance of System With Amnesty and Penalty Thresholds:
   <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/ER.png" alt="...">
+</h2>
+<h2 align="center">
+  Graphical Representation of Performance:
+  <img align="center"  src="https://github.com/CECC-ANU/Text2Triple/blob/main/performance.png" alt="...">
 </h2>
