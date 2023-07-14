@@ -14,6 +14,7 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
 * Python 3.8
 * Stanford OpenIE
 * SpaCy
+* GPT4
   
 ### Dataset Statistics
 <h2 align="center">
@@ -74,4 +75,4 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
 - Code folder contains the relevant code files.
 
 #### When using this dataset, please cite:
-- Citation will be update
+- Citation will be updated
