@@ -72,7 +72,10 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
 </h2>
 
 ### How to test
-- Code folder contains the relevant code files.
+- The code folder contains the relevant code files.
+
+### License
+This dataset is available to the public under the CreativeCommons license. This license grants users comprehensive permissions, including the freedom to utilize, modify, and create derivative works based on the dataset. Users are also permitted to distribute and share the dataset with the condition that they include this license statement in their distributions. It is important to note that this dataset is provided "as is" without any warranty, and the authors or contribu- tors of the dataset disclaim any liability for dam- ages or claims resulting from its use or distribution.
 
 #### When using this dataset, please cite:
 - Citation will be updated
