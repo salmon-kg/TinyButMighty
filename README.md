@@ -73,4 +73,17 @@ This work introduces a novel dataset specifically designed to evaluate KG constr
 This dataset is available to the public under the CreativeCommons license. This license grants users comprehensive permissions, including the freedom to utilize, modify, and create derivative works based on the dataset. Users are also permitted to distribute and share the dataset with the condition that they include this license statement in their distributions. It is important to note that this dataset is provided "as is" without any warranty, and the authors or contribu- tors of the dataset disclaim any liability for dam- ages or claims resulting from its use or distribution.
 
 ### When using this dataset, please cite:
-- Citation: to be updated.
+@inproceedings{salman-etal-2024-tiny,
+    title = "Tiny But Mighty: A Crowdsourced Benchmark Dataset for Triple Extraction from Unstructured Text",
+    author = "Salman, Muhammad  and
+      Haller, Armin  and
+      Rodriguez Mendez, Sergio J.  and
+      Naseem, Usman",
+    booktitle = "Proceedings of the 20th Joint ACL - ISO Workshop on Interoperable Semantic Annotation @ LREC-COLING 2024",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.isa-1.10",
+    pages = "71--81",
+}
